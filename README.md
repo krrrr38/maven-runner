@@ -16,6 +16,8 @@ $ maven-runner jar -groupId com.sample -artifact spring-boot-program -version 0.
 // sh -c "java -Dproperty=value -jar spring-boot-program-0.1.0.jar foo bar"
 ```
 
+![](./image/maven-runner.png)
+
 ## Install
 
 To install, use `go get`:
